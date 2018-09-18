@@ -1,5 +1,5 @@
 # SomeSmallTasks_t001
-  Make a equivalent of Python code example of VagueList a list that can yield adjacent elements (insted of one requested)
+  Make (in Java) an equivalent of a Python code example of VagueList, a list that can yield adjacent elements (insted of one requested)
 and without ArrayOutOfBounds or other errors when getting elements with any index...
 ```Python
 import random
