@@ -1,7 +1,7 @@
 # SomeSmallTasks_t001
   Make a equivalent of Python code example of VagueList a list that can yield adjacent elements (insted of one requested)
 and without ArrayOutOfBounds or other errors when getting elements with any index...
-
+```Python
 import random
 
 class VagueList:
@@ -19,3 +19,4 @@ print(len(vague_list))
 print(len(vague_list))
 print(vague_list[4])
 print(vague_list[4])
+```
